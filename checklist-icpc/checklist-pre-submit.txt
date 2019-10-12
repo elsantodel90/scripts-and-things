@@ -1,0 +1,21 @@
+¿Si n = 0 anda? (similar casos borde tipo n=1, n=2, etc)
+¿Si hay puntos alineados anda?
+¿Si es vacío anda?
+¿Si hay multiejes anda?
+¿Si no tiene aristas anda?
+¿Si tiene ciclos anda?
+¿Si tiene un triángulo anda?
+
+¿Está el MOD en todos lados?
+¿Los arrays son suficientemente grandes? (siempre denle bastante de más por las dudas, pero tampoco se ceben como para que ya no entre en memoria XD)
+¿Puede dar integer overflow? (SIEMPRE mirar el integer overflow con MUCHO cuidado)
+¿Podés dividir por cero en algún caso?
+¿Estás memorizando la recursión bien?
+¿El caso base está bien hecho y se llega siempre?
+¿Están bien puestas las cotas iniciales de la binary / inicialización del acumulador máximo/mínimo?
+
+¿Estás inicializando bien antes de cada caso?
+¿Le copiaste el input dos veces en el archivo de entrada (para ver que de igual y bien las dos veces)? [No aplica cuando viene solo una instancia de input]
+¿Pasa los ejemplos? [No es joda, Leo se quedo afuera de la mundial por esto]
+
+[Escriba aquí a mano otras cosas que se le ocurran y que sean relevantes para usted, imprima y lleve a la prueba esta hojita machete]
